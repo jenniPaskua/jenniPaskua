@@ -1,8 +1,8 @@
 ### 조지은(Jenni Jo) ・ iOS Developer ・ Seoul KR 👋
 
-#### * Email: paskua4160@gmail.com
-#### * Facebook: facebook.com/JenniJeeunJo
-#### * Github: github.com/jenniPaskua
+##### * Email: paskua4160@gmail.com
+##### * Facebook: facebook.com/JenniJeeunJo
+##### * Github: github.com/jenniPaskua
 
 <!--
 **jenniPaskua/jenniPaskua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
