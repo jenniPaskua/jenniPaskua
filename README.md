@@ -1,8 +1,8 @@
 ### 조지은(Jenni Jo) ・ iOS Developer ・ Seoul KR 👋
 
-##### * Email: paskua4160@gmail.com
-##### * Facebook: facebook.com/JenniJeeunJo
-##### * Github: github.com/jenniPaskua
+1. Email: paskua4160@gmail.com
+2. Facebook: facebook.com/JenniJeeunJo
+3. Github: github.com/jenniPaskua
 
 <!--
 **jenniPaskua/jenniPaskua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Swift](https://img.shields.io/badge/-Swift-46a2f1?style=for-the-badge&logo=swift)
 ![Swift](https://img.shields.io/badge/-Swift-46a2f1?style=for-the-badge&logo=swift)
 ![Python](https://img.shields.io/badge/-Python-46a2f1?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
