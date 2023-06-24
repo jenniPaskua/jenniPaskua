@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/-Swift-46a2f1?style=for-the-badge&logo=swift)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/-Python-46a2f1?style=for-the-badge&logo=python)
+![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&amp;logo=Node.js&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
