@@ -1,4 +1,4 @@
-### 조지은(Jenni Jo) ・ iOS Developer ・ Seoul KR 👋
+### 조지은(Jenni Jo) | iOS ・ Front-end Developer ・ Seoul KR 👋
 
 1. Email: paskua4160@gmail.com
 2. Facebook: facebook.com/JenniJeeunJo
@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 -->
 
 ![Swift](https://img.shields.io/badge/-Swift-46a2f1?style=for-the-badge&logo=swift)
+![React](https://img.shields.io/badge/-React-46a2f1?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/-Python-46a2f1?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
