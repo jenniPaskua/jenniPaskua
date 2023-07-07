@@ -8,7 +8,9 @@ Don’t hold back. Embrace the uncertainty. Step into an unknown future.
 
 #### Tech Stack 
 ![Swift](https://img.shields.io/badge/-Swift-46a2f1?style=for-the-badge&logo=swift)
+![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=%23F7DF1C&amp;color=%23FFCE5A)
+![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/-Python-46a2f1?style=for-the-badge&logo=python)
-![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&amp;logo=Node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&amp;logo=html5&amp;logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&amp;logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
