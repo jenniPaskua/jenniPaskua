@@ -1,4 +1,4 @@
-# ### 조지은(Jenni Jo) | Front-end Developer 🌟
+### 조지은(Jenni Jo) | Front-end Developer 🌟
 **Seoul, KR** 👋  
 사용자와 서비스 지향적인 프론트엔드 개발자입니다.
 
