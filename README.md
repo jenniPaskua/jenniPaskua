@@ -9,7 +9,7 @@ Don’t hold back. Embrace the uncertainty. Step into an unknown future.
 
 
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Monorepo](https://img.shields.io/badge/monorepo-5E5E5E?style=for-the-badge&logo=lerna&logoColor=white)
+![Turborepo](https://img.shields.io/badge/turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
